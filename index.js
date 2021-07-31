@@ -66,7 +66,7 @@ const urlsOfUnwatchedAdverts = async (page) =>{
 
 
 
-(async () => {
+const lookForRooms = async () => {
     const browser = await puppeteer.launch({ 
         headless: true, 
         // args: [
@@ -77,7 +77,14 @@ const urlsOfUnwatchedAdverts = async (page) =>{
     const page = await browser.newPage(); 
 
     await page.setViewport({width: 1200, height: 720});
-    await page.goto('https://kamernet.nl', { waitUntil: 'networkidle0' });
+    await page.goto('https://kamernet.nl/nl', { waitUntil: 'networkidle0' })
+    .catch(async (err) => {
+        await browser.close();
+        lookForRooms().catch(function (err) {
+            console.error(err)
+            console.log("Promise Rejected");
+        });
+    })
     
     await loginIntoAccount(page)
     await searchForRooms(page)
@@ -98,7 +105,22 @@ const urlsOfUnwatchedAdverts = async (page) =>{
         console.log("There is nothing new")
 
     await browser.close();
-})().catch(function (err) {
+}
+
+lookForRooms().catch(function (err) {
     console.error(err)
     console.log("Promise Rejected");
 });
+
+var minutes = 10, the_interval = minutes * 60 * 1000;
+let loop = setInterval(function() {
+    lookForRooms().catch(function (err) {
+        console.error(err)
+        console.log("Promise Rejected");
+    });
+}, the_interval);
+
+setTimeout(() => {
+    clearInterval(loop)
+    console.log("We are done for today!");
+}, 10 * 60 * 60 * 1000)
