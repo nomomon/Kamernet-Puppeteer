@@ -1,0 +1,32 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "puppeteer":"^10.1.0"
+  },
+  "name": "kamernet-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomomon/Kamernet-Puppeteer.git"
+  },
+  "keywords": [
+    "kamernet",
+    "puppeteer",
+    "node",
+    "js",
+    "autosender"
+  ],
+  "author": "nomomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomomon/Kamernet-Puppeteer/issues"
+  },
+  "homepage": "https://github.com/nomomon/Kamernet-Puppeteer#readme",
+  "description": ""
+}
