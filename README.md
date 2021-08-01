@@ -6,3 +6,6 @@
 
 ## How to use?
 1. Create a file named `creads.js` in root similarly struchtured as `sample_creds.js`.
+
+# License
+All of the codebases are **MIT licensed** unless otherwise specified.
