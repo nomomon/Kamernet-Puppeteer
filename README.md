@@ -15,8 +15,11 @@
 ## License
 All of the codebases are **MIT licensed** unless otherwise specified.
 
+<br>
+<br>
+
+<img src="images/charles-darwin.jpeg" width="250px" align="right"/>
+
 > “It is not the strongest of the students that find the room, nor the most well mannered, but the one most programmer.”
 >
 > – not Charles Darwin
-
-<img href="/images/charles-darwin.jpeg"></img>
