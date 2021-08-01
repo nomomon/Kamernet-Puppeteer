@@ -1,7 +1,11 @@
 ![Kamernet Puppeteer banner](https://nomomon.github.io/images/kamernet-puppeteer.jpeg)
 
 # Kamernet Puppeteer
+In Netherlands universities are not obliged to provide housing for students. However, they do provide services through which students may find a room. But they are either fully booked, or not in good shape.
 
+Kamernet is a platform where people can find home. When I began using it, I quickly understood that it is not me who chooses my home, but the home (landlord) chooses me.
+
+So, the most obvious solution was to write a message to every home and hope that they invite me to a viewing.
 
 ## How to use?
 0. 
