@@ -5,7 +5,9 @@
 
 
 ## How to use?
-1. Create a file named `creads.js` in root similarly struchtured as `sample_creds.js`.
+0. Make sure that you sign in to kamernet using email and password. In the settings, set your message as saved message.
 
-# License
+1. In the `creds.js` file change `XXX` onto your credentials.
+
+## License
 All of the codebases are **MIT licensed** unless otherwise specified.
