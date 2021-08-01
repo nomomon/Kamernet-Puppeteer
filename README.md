@@ -19,8 +19,7 @@ So, the most obvious solution was to write a message to every home and hope that
 ## License
 All of the codebases are **MIT licensed** unless otherwise specified.
 
-<br>
-<br>
+---
 
 <img src="images/charles-darwin.jpeg" width="250px" align="right"/>
 
