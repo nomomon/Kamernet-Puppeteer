@@ -5,8 +5,8 @@
 
 ## How to use?
 0. 
-    1. In the settings set your message as [saved message](https://kamernet.nl/mijn-berichten/custom). Recommendations on writing your message [here](ADVICE.md).
-    2. Make sure to have Node.js installed.
+    1. Set your message in [Saved message](https://kamernet.nl/mijn-berichten/custom). Find advice on writing a message [here](ADVICE.md).
+    2. Set your saved search in [My searches](https://kamernet.nl/account/alerts).
 
 1. In the `creds.js` file change the examples to your data.
 
