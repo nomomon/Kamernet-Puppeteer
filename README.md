@@ -5,7 +5,7 @@
 
 
 ## How to use?
-0. Make sure that you sign in to kamernet using email and password. In the settings, set your message as saved message.
+0. Make sure that you sign in to kamernet using email and password. In the settings, set your message as [saved message](https://kamernet.nl/mijn-berichten/custom). Recommendations on writing your message [here](.blob/main/ADVICE.md).
 
 1. In the `creds.js` file change `XXX` onto your credentials.
 
