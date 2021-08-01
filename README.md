@@ -1,7 +1,8 @@
 ![Kamernet Puppeteer banner](https://nomomon.github.io/images/kamernet-puppeteer.jpeg)
 
 # Kamernet Puppeteer
-> huh, what an original name?
+> “It is not the strongest of the students that find the room, nor the most well mannered, but the one most programmer.”
+> – not Charles Darwin
 
 
 ## How to use?
