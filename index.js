@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const CREDS = require('./creds')
+const SETTINGS = require('./settings')
  
 const scrollTo = async(page, selector) =>{
     // scroll selector into view
@@ -17,8 +17,8 @@ const scrollTo = async(page, selector) =>{
 const loginIntoAccount = async (page) => {
     await page.click('#login-button');
 
-    await page.type('#UserEmail', CREDS.username);
-    await page.type('#LoginPassword', CREDS.password);
+    await page.type('#UserEmail', SETTINGS.username);
+    await page.type('#LoginPassword', SETTINGS.password);
     await Promise.all([
         page.click('#btnLogin_popup'),
         page.waitForNavigation({ waitUntil: 'networkidle0' }),
@@ -112,7 +112,7 @@ lookForRooms().catch(function (err) {
     console.log("Promise Rejected");
 });
 
-var minutes = 10, the_interval = minutes * 60 * 1000;
+var minutes = SETTINGS.timeInt, the_interval = minutes * 60 * 1000;
 let loop = setInterval(function() {
     lookForRooms().catch(function (err) {
         console.error(err)

@@ -12,7 +12,7 @@ So, the most obvious solution was to write a message to every home and hope that
     1. Set your message in [Saved message](https://kamernet.nl/mijn-berichten/custom). Find advice on writing a message [here](ADVICE.md).
     2. Set your saved search in [My searches](https://kamernet.nl/account/alerts).
 
-1. In the `creds.js` file change the examples to your data.
+1. In the `settings.js` file change the examples to your data.
 
 2. Run the `index.js` file with node.
 
