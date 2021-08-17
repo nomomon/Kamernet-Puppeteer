@@ -1,3 +1,5 @@
+_**Disclaimer:** Launching this code does not garuantee that you will find a room using it. Read [here](ADVICE.md) why it is a bad idea to use this code._
+
 ![Kamernet Puppeteer banner](https://nomomon.github.io/images/kamernet-puppeteer.jpeg)
 
 # Kamernet Puppeteer
@@ -9,7 +11,7 @@ So, the most obvious solution was to write a message to every home and hope that
 
 ## How to use?
 0. 
-    1. Set your message in [Saved message](https://kamernet.nl/mijn-berichten/custom). Find advice on writing a message [here](ADVICE.md).
+    1. Set your message in [Saved message](https://kamernet.nl/mijn-berichten/custom). Find advice on writing a message [here](ADVICE.md#message).
     2. Set your saved search in [My searches](https://kamernet.nl/account/alerts).
 
 1. In the `settings.js` file change the examples to your data.
