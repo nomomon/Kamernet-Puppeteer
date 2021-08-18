@@ -19,7 +19,7 @@ So, the most obvious solution was to write a message to every home and hope that
 2. Run the `index.js` file with node.
 
 ## License
-All of the codebases are **MIT licensed** unless otherwise specified.
+All of the codebase are **MIT licensed** unless otherwise specified.
 
 ---
 
