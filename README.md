@@ -3,7 +3,7 @@ _**Disclaimer:** Using this code does not garuantee that you will find a room in
 ![Kamernet Puppeteer banner](https://nomomon.github.io/images/kamernet-puppeteer.jpeg)
 
 # Kamernet Puppeteer
-In Netherlands universities are not obliged to provide housing for students. However, they do provide services through which students may find a room. But they are either fully booked, or not in good shape.
+Netherland universities do not provide accommodation, but help international students in their search. They provide services like SSH, funda, Paprius, ROOM, ...
 
 Kamernet is a platform where people can find home. When I began using it, I quickly understood that it is not me who chooses my home, but the home (landlord) chooses me.
 
