@@ -5,7 +5,9 @@ _**Disclaimer:** Using this code does not garuantee that you will find a room in
 # Kamernet Puppeteer
 Netherland universities do not provide accommodation, but help international students in their search. They provide services like SSH, funda, Paprius, ROOM, ...
 
-Kamernet is a platform where people can find home. When I began using it, I quickly understood that it is not me who chooses my home, but the home (landlord) chooses me.
+Kamernet is a platform where people can find home. When I began using it, I quickly understood that it is very competetive and it's not me who chooses a home, but a home (landlord) chooses me.
+
+Many have said that they are looking for dutch students, or that I am arriving too late and they need people now, or they say that there was a guy before who replied one of the first.
 
 So, the most obvious solution was to write a message to every home and hope that they invite me to a viewing.
 
