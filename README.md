@@ -1,4 +1,4 @@
-_**Disclaimer:** Using this code does not garuantee that you will find a room in Netherlands. Moreover, read [here](ADVICE.md) why it could be a bad idea to use this code._
+_**Disclaimer:** Using this code does not garuantee that you will find a room in Netherlands. Moreover, read [here](ADVICE.md#why-using-this-code-is-a-bad-idea) why it could be a bad idea to use this code._
 
 ![Kamernet Puppeteer banner](https://nomomon.github.io/images/kamernet-puppeteer.jpeg)
 
