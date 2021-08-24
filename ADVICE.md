@@ -5,9 +5,9 @@ Hi! It may be hard to find a room in Netherlands as a student (especialy not fro
 ## Why using this code is a bad idea?
 and why is a bad idea to use Kamernet?
 
-- A good portion of all the listing is for women or Dutch only, so if you don't fit in this category it is will be harder.
-- Kamernet has [unrealistic requirments](https://kamernet.force.com/support/s/article/room-guarantee2?language=en_US&fbclid=IwAR0oQBWLHCbkAkhZxguIEo_rQxDRwWK0cT960acyRedSfUiFS-9z0MdfAuA) for refund.
-- This code (if default settings used) sends a message within first 10 minutes of advert publication. Your message may get buried under messages from others.
+- A good portion of all the listing is for women or Dutch only, so if you don't fit in this category it will be harder.
+- Kamernet has unrealistic [refund requirments](https://kamernet.force.com/support/s/article/room-guarantee2?language=en_US&fbclid=IwAR0oQBWLHCbkAkhZxguIEo_rQxDRwWK0cT960acyRedSfUiFS-9z0MdfAuA).
+- This code (if default settings are used) sends a message within first 10 minutes of advert publication. Your message may get buried under messages from others.
 
 [WIP]
 
