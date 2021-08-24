@@ -3,7 +3,13 @@
 Hi! It may be hard to find a room in Netherlands as a student (especialy not from EU, believe me, I went through it). This guide is composed of advice given to by the landlords themselfes. I wish you the best of luck in finding a room in Groningen. It can be very challenging, but eventually everyone will find something.
 
 ## Why using this code is a bad idea?
-[TODO]
+and why is a bad idea to use Kamernet?
+
+- A good portion of all the listing is for women or Dutch only, so if you don't fit in this category it is will be harder.
+- Kamernet has [unrealistic requirments](https://kamernet.force.com/support/s/article/room-guarantee2?language=en_US&fbclid=IwAR0oQBWLHCbkAkhZxguIEo_rQxDRwWK0cT960acyRedSfUiFS-9z0MdfAuA) for refund.
+- This code (if default settings used) sends a message within first 10 minutes of advert publication. Your message may get buried under messages from others.
+
+[WIP]
 
 ## Competition
 Competition is rough. Every year there are hundreds of freshman looking for rooms, and there are students in their second and third years who might be also looking for rooms. This is what one landlord replied:
