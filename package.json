@@ -2,15 +2,18 @@
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
-    "puppeteer":"^10.1.0"
+    "chalk": "^5.0.1",
+    "puppeteer": "^10.1.0"
   },
   "name": "kamernet-puppeteer",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nomomon/Kamernet-Puppeteer.git"
