@@ -1,10 +1,15 @@
 import chalk from "chalk";
-
 import Settings from "./settings.js";
+
 import {lookForRooms} from "./kamernet.js";
 
+/**
+ * Kamernet Bot by Mansur Nurmukhambetov and Ambrus Tóth
+ **/
 
 lookForRooms();
+
+
 let interval = setInterval(lookForRooms, Settings.TIME_INTERVAL_MINUTES * 60 * 1000);
 
 if (Settings.TIMEOUT_MINUTES !== Infinity) {
