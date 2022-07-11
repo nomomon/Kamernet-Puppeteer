@@ -124,7 +124,7 @@ export async function lookForRooms() {
     let browser, page;
     try {
         browser = await puppeteer.launch({
-            headless: true, // set it false to see chrome
+            headless: false, // set it false to see chrome
             defaultViewport: null,
             args: [
                 '--start-maximized',
