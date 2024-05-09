@@ -1,7 +1,7 @@
 _**Disclaimer:** Using this code does not garuantee that you will find a room in Netherlands. Moreover,
 read [here](ADVICE.md#why-using-this-code-is-a-bad-idea) why it could be a bad idea to use this code._
 
-![Kamernet Puppeteer banner](https://nomomon.github.io/images/projects/kamernet-puppeteer.jpeg)
+![Kamernet Puppeteer banner](https://nomomon.github.io/projects/kamernet-puppeteer/assets/kamernet-puppeteer.jpeg)
 
 # Kamernet Puppeteer
 
