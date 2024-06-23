@@ -1,41 +1,32 @@
-_**Disclaimer:** Using this code does not garuantee that you will find a room in Netherlands. Moreover,
-read [here](ADVICE.md#why-using-this-code-is-a-bad-idea) why it could be a bad idea to use this code._
-
-![Kamernet Puppeteer banner](https://nomomon.github.io/projects/kamernet-puppeteer/assets/kamernet-puppeteer.jpeg)
-
 # Kamernet Puppeteer
 
-Dutch universities do not provide accommodation, but help international students in their search. They provide services
-like SSH, funda, Pararius, ROOM, ...
+Bot that auto-messages landlords on Kamernet so you don't have to refresh the page every 5 minutes.
 
-Kamernet is a platform where people can find home. When I began using it, I quickly understood that it is
-very [competetive](ADVICE.md#competition), and it's not me who chooses a home, but a home (landlord) chooses me.
+![banner](https://nomomon.github.io/projects/kamernet-puppeteer/assets/kamernet-puppeteer.jpeg)
 
-Many have said that they are looking for Dutch students, or that I am arriving too late, and they need people now, or
-they say that there was a guy before me who replied earlier.
+## What's this about
 
-For each room, usually hundreds of people reply.
+Dutch universities don't provide housing. When I started looking on Kamernet, I quickly realized it's not me choosing a home — it's the landlord choosing me. Hundreds of people reply to each listing. Many landlords said they wanted a Dutch student, or someone who replied earlier.
 
-So, the most obvious solution was to write a message to every home and hope that they invite me to a viewing.
+Sending messages by hand was exhausting. So I wrote a Puppeteer bot that checks for new listings every 5 minutes and messages them automatically. First to reply = better chances.
 
-## How to use?
+## How to launch
 
-0.
-   1. Set your message in message.txt. Find advice on writing a message [here](ADVICE.md#message).
-   2. Set your saved search in [My searches](https://kamernet.nl/account/alerts).
+```bash
+npm install
+```
 
-1. In the `settings.js` file change the examples to your data.
+1. Write your message in `message.txt` (see [advice on writing a good one](ADVICE.md#message))
+2. Set up your saved search on [Kamernet](https://kamernet.nl/account/alerts)
+3. Fill in your credentials in `settings.js`
+4. Run it:
 
-2. Run the `index.js` file with node.
+```bash
+npm start
+```
 
-## License
+## Did it work?
 
-All of the codebase are **MIT licensed** unless otherwise specified.
+I got invited to a few viewings, but the deals didn't pan out. However — through the bot I met my future best friend, who helped me get a room at their place. So yeah, it worked.
 
----
-
-<img src="images/charles-darwin.jpeg" width="250px" align="right"/>
-
-> “It is not the strongest of the students that find the room, nor the most well mannered, but the one most programmer.”
->
-> – Charles Darwin
+> "It is not the strongest of the students that find the room, nor the most well mannered, but the one most programmer." — Charles Darwin
