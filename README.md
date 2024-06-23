@@ -2,7 +2,7 @@
 
 Bot that auto-messages landlords on Kamernet so you don't have to refresh the page every 5 minutes.
 
-![banner](https://nomomon.github.io/projects/kamernet-puppeteer/assets/kamernet-puppeteer.jpeg)
+![banner](./assets/banner.jpeg)
 
 ## What's this about
 
